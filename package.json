@@ -1,0 +1,15 @@
+{
+"name": "bot-agroclina",
+"version": "1.0.0",
+"main": "index.js",
+"type": "commonjs",
+"scripts": {
+"start": "node index.js"
+},
+"dependencies": {
+"axios": "^1.6.0",
+"dotenv": "^17.0.0",
+"node-cron": "^3.0.0",
+"node-telegram-bot-api": "^0.66.0"
+}
+}
